@@ -8,4 +8,4 @@ Est une animation qui permet d'afficher et de faire disparaitre un élément en 
 4. _@keyframes
 
 ## Voir le travail
-Allez sur le lien, [show-hide-anilation-css](https://github.com/ekoleleibrahim.github.io/show-hide-animation-css)
+Allez sur le lien, [show-hide-anilation-css](https://github.com/ekoleleibrahim.github.io/show-hide-animation-css/)
